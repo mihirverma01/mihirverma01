@@ -49,11 +49,11 @@
 ### ⚡ Github Stats
 
 <a href="https://github.com/mihirverma01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirverma7781&show_icons=true&theme=tokyonight" alt="Mihir's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirverma01&show_icons=true&theme=tokyonight" alt="Mihir's GitHub Stats" />
 </a>
 
 ### 👨‍💻 Total Visitors 
 
 <img src="https://profile-counter.glitch.me/mihirverma01/count.svg" /><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirverma7781&layout=compact)](https://github.com/mihirverma01)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirverma01&layout=compact)](https://github.com/mihirverma01)
