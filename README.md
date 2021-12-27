@@ -33,7 +33,7 @@
 <p align="center">
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
-  <code><img height="75" src="http://blog.toright.com/wp-content/uploads/2015/03/nodejs-logo.png"></code> &nbsp;&nbsp;
+  <code><img height="75" src="https://img1.pnghut.com/1/4/7/5CXD0EnpdZ/expressjs-logo-text-serverside-runtime-system.jpg"></code> &nbsp;&nbsp;
   <code><img height="75" src="https://mongodb.gallerycdn.vsassets.io/extensions/mongodb/mongodb-vscode/0.7.0/1638396454472/Microsoft.VisualStudio.Services.Icons.Default"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
@@ -48,12 +48,12 @@
 
 ### ⚡ Github Stats
 
-<a href="https://github.com/mihirverma7781">
+<a href="https://github.com/mihirverma01">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirverma7781&show_icons=true&theme=tokyonight" alt="Mihir's GitHub Stats" />
 </a>
 
 ### 👨‍💻 Total Visitors 
 
-<img src="https://profile-counter.glitch.me/mihirverma7781/count.svg" /><br>
+<img src="https://profile-counter.glitch.me/mihirverma01/count.svg" /><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirverma7781&layout=compact)](https://github.com/mihirverma7781)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirverma7781&layout=compact)](https://github.com/mihirverma01)
