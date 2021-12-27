@@ -33,7 +33,7 @@
 <p align="center">
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
-  <code><img height="75" src="https://pngset.com/images/javascript-node-js-nodejs-icon-number-symbol-text-rug-transparent-png-1949441.png"></code> &nbsp;&nbsp;
+  <code><img height="75" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png"></code> &nbsp;&nbsp;
   <code><img height="75" src="https://mongodb.gallerycdn.vsassets.io/extensions/mongodb/mongodb-vscode/0.7.0/1638396454472/Microsoft.VisualStudio.Services.Icons.Default"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
